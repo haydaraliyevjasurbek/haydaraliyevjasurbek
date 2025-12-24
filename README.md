@@ -13,7 +13,7 @@ I enjoy contributing to the tech community through open-source projects, blog po
 
 <img src="https://img.shields.io/badge/building-8A2BE2" alt="building"/>
 <p align="center">
-  I am building <a href="[https://www.uzsummarize.uz/en](https://dummy-json-market.netlify.app/)">Dummy Json Market</a>
+  I am building <a href="[https://www.uzsummarize.uz/en]">Dummy Json Market</a>
 </p>
 
 
