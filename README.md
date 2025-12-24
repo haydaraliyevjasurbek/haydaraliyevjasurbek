@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sukhrob Abdullaev</h1>
+<h1 align="center">👋 Hi, I'm Jasurbek Haydaraliyev</h1>
 
 <p align="center">
   Software Engineer | Frontend & Backend Developer | Tech Content Creator  
@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-I'm a passionate **Software Engineer** with over 3 years of experience building modern web apps. I focus on performance, clean architecture, and creating smooth user experiences using cutting-edge technologies.  
+I'm a passionate **Software Engineer** with over 2 years of experience building modern web apps. I focus on performance, clean architecture, and creating smooth user experiences using cutting-edge technologies.  
 I enjoy contributing to the tech community through open-source projects, blog posts, and educational videos.
 
 <img src="https://img.shields.io/badge/building-8A2BE2" alt="building"/>
@@ -34,8 +34,8 @@ I enjoy contributing to the tech community through open-source projects, blog po
 
 ### 📢 Let's Connect
 
-- 🌐 [Blog: Sukhrob's I/O](https://www.sukhrob.io)  
-- 📧 [Email me](mailto:sukhrobtech@gmail.com)  
+- 🌐 [Blog: Sukhrob's I/O](https://www.jasurbek.com)  
+- 📧 [Email me](mailto:jasurbekhaydaraliyev7777@gmail.com)  
 
 ---
 
