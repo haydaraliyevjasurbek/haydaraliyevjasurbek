@@ -34,7 +34,7 @@ I enjoy contributing to the tech community through open-source projects, blog po
 
 ### 📢 Let's Connect
 
-- 🌐 [Blog: Sukhrob's I/O](https://www.jasurbek.com)  
+- 🌐 [Blog: Jasurbek's I/O](https://www.jasurbek.com)  
 - 📧 [Email me](mailto:jasurbekhaydaraliyev7777@gmail.com)  
 
 ---
